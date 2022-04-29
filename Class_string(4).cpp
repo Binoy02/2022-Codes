@@ -45,4 +45,8 @@ The first string is : I wish to become a doctorate.
 The second string is : I am Binoy Das Gupta.
 
 The string after replace operation is : I wisI am Binoy Das Gupta. ecome a doctorate.
+
+After erasing :
+The first string is :
+The second string is : I am Binoy Das Gupta.
 */
