@@ -31,6 +31,11 @@ int main()
 	str1.replace(5,6,str2);
 	cout<<"\nThe string after replace operation is : "<<str1<<endl;
 	
+	cout<<"\nAfter erasing : "<<endl;
+	str1.erase();
+	cout<<"The first string is : "<<str1<<endl;
+	cout<<"The second string is : "<<str2<<endl;
+	
 	return 0;
 }
 
