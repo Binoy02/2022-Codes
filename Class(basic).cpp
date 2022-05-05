@@ -42,3 +42,10 @@ int main()
 	
 	return 0;
 }
+
+/*
+The area of first rectangle is = 50
+The perimeter of first rectangle is = 30
+The area of second rectangle is = 150
+The perimeter of second rectangle is = 50
+*/
